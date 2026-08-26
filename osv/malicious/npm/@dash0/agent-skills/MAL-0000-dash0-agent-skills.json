@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.7.4",
+  "details": "Live E2E batch verification test.\n\nAffected package: @dash0/agent-skills (npm), version(s): 1.0.0.",
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "npm",
+        "name": "@dash0/agent-skills"
+      },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
+      "versions": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "type": "ARTICLE",
+      "url": "https://example-research.test/writeup"
+    }
+  ],
+  "credits": [
+    {
+      "name": "OX Security",
+      "contact": [],
+      "type": "FINDER"
+    }
+  ]
+}
