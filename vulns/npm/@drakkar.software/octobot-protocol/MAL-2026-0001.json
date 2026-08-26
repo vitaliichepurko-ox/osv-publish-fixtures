@@ -1,0 +1,19 @@
+{
+  "id": "MAL-2026-0001",
+  "schema_version": "1.4.0",
+  "modified": "2026-08-26T11:09:16.515827Z",
+  "published": "2026-08-26T11:09:16.515827Z",
+  "summary": "Test summary (live E2E verification)",
+  "details": "Test details for OXDEV-83125 live verification.",
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "npm",
+        "name": "@drakkar.software/octobot-protocol"
+      },
+      "versions": [
+        "1.0.0"
+      ]
+    }
+  ]
+}
