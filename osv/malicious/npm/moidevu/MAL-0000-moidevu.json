@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.7.4",
+  "details": "test\n\nAffected package: moidevu (npm), version(s): 1.0.0.",
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "npm",
+        "name": "moidevu"
+      },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
+      "versions": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "type": "ARTICLE",
+      "url": "test"
+    }
+  ],
+  "credits": [
+    {
+      "name": "OX Security",
+      "contact": [],
+      "type": "FINDER"
+    }
+  ]
+}
