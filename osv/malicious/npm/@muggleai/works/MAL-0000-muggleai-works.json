@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.7.4",
+  "details": "test\n\nAffected package: @muggleai/works (npm), version(s): 5.12.0-staging.78.",
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "npm",
+        "name": "@muggleai/works"
+      },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
+      "versions": [
+        "5.12.0-staging.78"
+      ],
+      "database_specific": {
+        "iocs": {
+          "domains": [],
+          "urls": [
+            "https://github.com/multiplex-ai/muggle-ai-works/releases/download"
+          ],
+          "ips": [],
+          "files": []
+        }
+      }
+    }
+  ],
+  "references": [
+    {
+      "type": "ARTICLE",
+      "url": "test"
+    }
+  ],
+  "credits": [
+    {
+      "name": "OX Security",
+      "contact": [],
+      "type": "FINDER"
+    }
+  ]
+}
