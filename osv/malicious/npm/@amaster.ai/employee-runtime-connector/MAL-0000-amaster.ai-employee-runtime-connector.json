@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.7.4",
+  "details": "test\n\nAffected package: @amaster.ai/employee-runtime-connector (npm), version(s): 0.1.1-beta.137, 0.1.1-beta.136, 0.1.1-beta.132, 0.1.1-beta.131, 0.1.1-beta.130, 0.1.1-beta.129, 0.1.1-beta.128, 0.1.1-beta.127, 0.1.1-beta.126, 0.1.1-beta.125, 0.1.1-beta.124, 0.1.1-beta.123, 0.1.1-beta.122, 0.1.1-beta.121, 0.1.1-beta.120, 0.1.1-beta.119, 0.1.1-beta.118, 0.1.1-beta.117, 0.1.1-beta.116, 0.1.1-beta.115.",
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "npm",
+        "name": "@amaster.ai/employee-runtime-connector"
+      },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
+      "versions": [
+        "0.1.1-beta.137",
+        "0.1.1-beta.136",
+        "0.1.1-beta.132",
+        "0.1.1-beta.131",
+        "0.1.1-beta.130",
+        "0.1.1-beta.129",
+        "0.1.1-beta.128",
+        "0.1.1-beta.127",
+        "0.1.1-beta.126",
+        "0.1.1-beta.125",
+        "0.1.1-beta.124",
+        "0.1.1-beta.123",
+        "0.1.1-beta.122",
+        "0.1.1-beta.121",
+        "0.1.1-beta.120",
+        "0.1.1-beta.119",
+        "0.1.1-beta.118",
+        "0.1.1-beta.117",
+        "0.1.1-beta.116",
+        "0.1.1-beta.115"
+      ],
+      "database_specific": {
+        "iocs": {
+          "domains": [
+            "amaster.ai"
+          ],
+          "urls": [],
+          "ips": [],
+          "files": []
+        }
+      }
+    }
+  ],
+  "references": [
+    {
+      "type": "ARTICLE",
+      "url": "test"
+    }
+  ],
+  "credits": [
+    {
+      "name": "OX Security",
+      "contact": [],
+      "type": "FINDER"
+    }
+  ]
+}
